@@ -8,6 +8,8 @@ The standard WOA and some derivative algorithms are studied and experimented to 
 ![F8LINE](https://user-images.githubusercontent.com/61769609/146500014-a3521f22-2168-40f4-9892-315a12a501fe.jpg)
 ![F9LINE](https://user-images.githubusercontent.com/61769609/146500018-461d17d7-6c18-436a-b60c-d5a06247a42e.jpg)
 ![F10LINE](https://user-images.githubusercontent.com/61769609/146499971-a0a2d721-6312-40a0-9ab2-e1d128697f8c.jpg)
+![1639722979(1)](https://user-images.githubusercontent.com/61769609/146502397-9a4a57cc-4d1f-40d5-ace9-380a8e95a3f3.png)
+![1639724151(1)](https://user-images.githubusercontent.com/61769609/146502482-631457b6-ff3f-44aa-a813-b34f36cbae0f.png)
+![1639724217(1)](https://user-images.githubusercontent.com/61769609/146502590-1ba0bb39-f15e-433a-8c40-211a6251fb86.png)
 
-   
-——2021.03
+——2021.04
